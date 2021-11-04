@@ -3,5 +3,5 @@ The steps were as follows:
 Step 1: Create the React frontend.
 Step 2: Create the Node backend with an Express server.
 Step 3: Set up MongoDB.
-Step 4: Connect the front and backends via the Fetch API
-Step 5: Hosting the site on an AWS instance
+Step 4: Connect the front and backends via the Fetch API.
+Step 5: Hosting the site on an AWS instance.
